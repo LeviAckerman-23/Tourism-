@@ -1,9 +1,14 @@
+a{
+  font-size: medium;
+  font-weight: 200;
+  color: grey;
+}
 body
 {
 	margin:0;
 	padding:0;
 	font-family:sans-serif;
-	background:url('front2.jpg') no-repeat;
+	background:url('images/bg1.webp') no-repeat;
 	height: 100vh;
 	background-size: 100% 100%;
 	
